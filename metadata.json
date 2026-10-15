@@ -1,0 +1,6 @@
+{
+  "name": "Método Corpo Violão 21D",
+  "description": "Programa de treinos de força de 12 minutos em casa para desenvolver força e trabalhar glúteos, pernas e abdômen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
